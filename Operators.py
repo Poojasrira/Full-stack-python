@@ -158,8 +158,8 @@
 #     password = input("enter password:")
 #     print("login success")
 
-student = ["ram","sam","arun"]
-print(student)
-student.append("alexa")
-student.remove("sam")
-print(student)
+# student = ["ram","sam","arun"]
+# print(student)
+# student.append("alexa")
+# student.remove("sam")
+# print(student)
