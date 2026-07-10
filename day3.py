@@ -217,12 +217,14 @@
 #     print("program completed")
 
 
-try:
-    print(10/2)
-except:
-    print("error")
-else:
-    print("success")
+# try:
+#     print(10/2)
+# except:
+#     print("error")
+# else:
+#     print("success")
+
+
 
 
 
